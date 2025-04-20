@@ -1,0 +1,20 @@
+{
+  "name": "felis-v13-sunucu-patlatma-botu",
+  "version": "1.0.0",
+  "description": "FelisDobra",
+  "main": "felis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "felis",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.4.0",
+    "discord.js-selfbot": "^12.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
